@@ -1,4 +1,4 @@
-package hu.petrik.peoplerestclientjavafx;
+package hu.petrik.feketedaniel_javafxrestclientdolgozat;
 
 public class Response {
     private int responseCode;
